@@ -4,7 +4,7 @@ public class ex03 {
 	           if (i % 10 == 0) {
 	               System.out.println(+i+" Múltiplo de 10");
 	           }else
-	        	   System.out.println(""+i+"");
+	        	   System.out.println(i);
 	       }
 	   }
 	}
